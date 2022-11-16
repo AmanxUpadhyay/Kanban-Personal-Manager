@@ -22,8 +22,8 @@ A Kanban board web application with a drag-and-drop functionality, and a real-ti
 ## Build/Deploy
 To run the app locally, clone the repo and install the app using: 
 ```
-  > git clone https://github.com/DeviousLab/mern-kanban-board.git
-  > cd mern-kanban-board
+  > (https://github.com/AmanxUpadhyay/Kanban-Personal-Manager)
+  > cd Kanban-Personal-Manager
   > npm i
 ```
 To run the client only
